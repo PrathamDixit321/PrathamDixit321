@@ -7,7 +7,7 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/pratham-dixit-3834bb332/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:prathamdixit.582@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=prathamdixit.582@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://github.com/PrathamDixit321"><img src="https://img.shields.io/github/followers/PrathamDixit321?label=Follow&style=flat-square&color=2C5364" alt="Followers"/></a>
   </p>
 </div>
@@ -107,7 +107,6 @@ hackathon: AMD AI Reinforcement Learning Hackathon (IIT Delhi)
 
 - **[🌐 Innoverse](https://github.com/PrathamDixit321/innoverse):** Peer project-discovery network built to eliminate developer silos (`JavaScript`).
 - **[🎙️ AI Voice Assistant](https://github.com/PrathamDixit321/AI-VOICE-ASSISTANCE):** Voice-command task orchestrator powered by natural language interaction (`Python`).
-- And Many More on https://github.com/PrathamDixit321?tab=repositories
 
 </details>
 
@@ -141,7 +140,8 @@ hackathon: AMD AI Reinforcement Learning Hackathon (IIT Delhi)
 
 <div align="center">
 
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PrathamDixit321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamDixit321&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
@@ -156,7 +156,7 @@ hackathon: AMD AI Reinforcement Learning Hackathon (IIT Delhi)
 ### Let's build something 🚀
 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-dixit-3834bb332/)
-[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathamdixit.582@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=prathamdixit.582@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
 
